@@ -32,7 +32,7 @@
     "canvg": "^3.0.6",
     "core-js": "^3.6.0",
     "dompurify": "^2.2.0",
-    "html2canvas": "^1.0.0-rc.5"
+    "html2canvas": "git+https://github.com/afterfit-giangln/html2canvas.git"
   },
   "devDependencies": {
     "@babel/core": "^7.10.4",
